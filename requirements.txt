@@ -1,0 +1,5 @@
+yfinance
+ta
+openai
+streamlit
+python-dotenv
